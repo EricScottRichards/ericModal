@@ -1,0 +1,9 @@
+Directives
+  Template
+  Link
+  Controller
+  Scope
+    @
+    =
+    &
+  Restrict
